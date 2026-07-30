@@ -10,7 +10,7 @@ I'm a BSCS 5th Semester Student from Wah, Pakistan
 `Digital Marketing` x1
 
 - 📊 **Featured Projects**
--  
+  
 [DevVerse-Python-Projects](https://github.com/ayesha-khan-dev-git/DevVerse-Python-Projects)
   
 [CodeAlpha-Python-Internship](https://github.com/ayesha-khan-dev-git/CodeAlpha-Python-Internship)
